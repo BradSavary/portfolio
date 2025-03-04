@@ -3,7 +3,7 @@ import CV from "../assets/CV.pdf";
 
 const Header = () => {
     return (
-      <header>
+      <header id="#about">
         <div className="header__img-container">
             <img className="header__img" src="./src/assets/bradsavary.webp" alt="" />
         </div>

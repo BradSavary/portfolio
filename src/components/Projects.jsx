@@ -9,7 +9,7 @@ const Projects = ({ projects }) => {
   };
 
   return (
-    <section className="projects">
+    <section id="projects" className="projects">
       <h2 className="projects__title">Mes Projets de Développement Web</h2>
       <section className="projects-container">
       {projects.map((project) => (
