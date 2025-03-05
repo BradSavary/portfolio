@@ -16,7 +16,6 @@ const App = () => {
       apercu: " Un TV show mettant en scène différents mini-jeu.",
       img: "./src/assets/chicken.png",
       github: " https://github.com/BradSavary/Let_him_quizz",
-      site: " https://vr-game.example.com",
     },
     {
       id: 2,
@@ -26,7 +25,6 @@ const App = () => {
       apercu: " Un projet mettant en avant une gestion de contenu type supermarché avec une base de données.",
       img: "./src/assets/graph.webp",
       github: " https://github.com/BradSavary/SAE303",
-      site: " https://vr-game.example.com",
     },
     {
       id: 3,
@@ -36,7 +34,6 @@ const App = () => {
       apercu: " Un carte classant des lycées et élèves par région et diplôme.",
       img: "./src/assets/map.webp",
       github: " https://github.com/BradSavary/SAE303-2",
-      site: " https://vr-game.example.com",
     },
     {
       id: 4,
@@ -46,7 +43,6 @@ const App = () => {
       apercu:  ` Un jeu type "clicker" avec différentes compétences.`,
       img: "./src/assets/nuit.webp",
       github: " https://github.com/BradSavary/Let_him_quizz",
-      site: " https://vr-game.example.com",
     },
   ];
 
